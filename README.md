@@ -120,6 +120,7 @@ http://127.0.0.1:5000/
 ```
 
 ## 📁 Project Folder Structure
+``` bash
 ProductPlacementAnalysis/
 │
 ├── app.py
@@ -131,7 +132,7 @@ ProductPlacementAnalysis/
 └── static/
     └── css/
         └── style.css
-
+```
 ## 📌 Tableau Public Links
 ### 🔗 Dashboard Link:
 (https://public.tableau.com/views/ProductPlacementAnalysis_17713332821370/PRODUCTPLACEMENTANALYSIS-DASHBOARD?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
